@@ -39,7 +39,7 @@ Note - For SNPs only one single position is enough for breakpoints.
   - Identify the first breakpoint
   - Identify the second breakpoint
   - Draw a curved line between them
-  - 
+
    These lines represent gene fusions, DNA mixing, or chromosomal rearrangements.
    Clusters of lines indicate hotspots or genome instability.
 
