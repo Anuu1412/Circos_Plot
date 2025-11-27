@@ -52,7 +52,7 @@ Note - For SNPs only one single position is enough for breakpoints.
 
 ## Use Cases
 
-1.Gene Fusion Detection
+1. Gene Fusion Detection
 
 - Circos plots are widely used to show gene fusions by drawing curved lines between two chromosomes.
 - This helps researchers easily spot fusion events that may drive cancer or other diseases.
