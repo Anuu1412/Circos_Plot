@@ -17,7 +17,6 @@ Each row represents one fusion event and should have:
 - chr2 – Chromosome of the second breakpoint
 - start2, end2 – Genomic interval of breakpoint 2
 
-Note - For SNPs only one single position is enough for breakpoints.
 ## Step-by-Step Tutorial
 1. Install Required Packages
 
